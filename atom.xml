@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yysquid.github.io</id>
+    <id>https://ysquid.me</id>
     <title>鱿鱼</title>
-    <updated>2020-04-01T08:01:43.564Z</updated>
+    <updated>2020-04-01T08:07:41.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yysquid.github.io"/>
-    <link rel="self" href="https://yysquid.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ysquid.me"/>
+    <link rel="self" href="https://ysquid.me/atom.xml"/>
     <subtitle>永远爱吃汽锅鸡！</subtitle>
-    <logo>https://yysquid.github.io/images/avatar.png</logo>
-    <icon>https://yysquid.github.io/favicon.ico</icon>
+    <logo>https://ysquid.me/images/avatar.png</logo>
+    <icon>https://ysquid.me/favicon.ico</icon>
     <rights>All rights reserved 2020, 鱿鱼</rights>
     <entry>
         <title type="html"><![CDATA[炸醋肉 ]]></title>
-        <id>https://yysquid.github.io/post/zha-cu-rou/</id>
-        <link href="https://yysquid.github.io/post/zha-cu-rou/">
+        <id>https://ysquid.me/post/zha-cu-rou/</id>
+        <link href="https://ysquid.me/post/zha-cu-rou/">
         </link>
         <updated>2020-03-31T12:43:14.000Z</updated>
     </entry>
